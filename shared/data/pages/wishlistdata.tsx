@@ -1,0 +1,15 @@
+export const Data1 = [
+    { id: 1, src: '../../../assets/images/ecommerce/png/1.png', data1: 'Dapzem & Co', data2: '4.2', data3: 'Branded hoodie ethnic style', data4: '$229', data5: '$1,799', data6: '72% off', data7: 'Offer Price $229', color: "secondary-transparent" },
+    { id: 2, src: '../../../assets/images/ecommerce/png/2.png', data1: 'Denim Winjo', data2: '4.0', data3: 'Vintage pure leather Jacket', data4: '$599', data5: '$2,499', data6: '75% off', data7: 'Offer Price $599', color: "secondary-transparent" },
+    { id: 3, src: '../../../assets/images/ecommerce/png/3.png', data1: 'Jimmy Lolfiger', data2: '4.5', data3: 'Unisex jacket for men & women', data4: '$1,199', data5: '$3,299', data6: '62% off', data7: 'Offer Price $1,199', color: "secondary-transparent" },
+    { id: 4, src: '../../../assets/images/ecommerce/png/4.png', data1: 'Bluberry Co.In', data2: '4.2', data3: 'Full sleeve white hoodie', data4: '$349', data5: '$1,299', data6: '60% off', data7: 'Offer Price $349', color: "secondary-transparent" },
+    { id: 5, src: '../../../assets/images/ecommerce/png/5.png', data1: 'Aus Polo Assn', data2: '4.5', data3: 'Snow jacket with low pockets', data4: '$1,899', data5: '$3,799', data6: '50% off', data7: 'Offer Price $1,899', color: "secondary-transparent" },
+    { id: 6, src: '../../../assets/images/ecommerce/png/6.png', data1: 'BMW', data2: '4.1', data3: 'Ethnic wear jackets form BMW', data4: '$1,499', data5: '$2,499', data6: '38% off', data7: 'Offer Price $1,499', color: "secondary-transparent" },
+    { id: 7, src: '../../../assets/images/ecommerce/png/7.png', data1: 'Denim Corporation', data2: '4.4', data3: 'Flap pockets denim jackets for men', data4: '$299', data5: '$399', data6: '35% off', data7: 'Offer Price $299', color: "secondary-transparent" },
+    { id: 8, src: '../../../assets/images/ecommerce/png/8.png', data1: 'Pufa', data2: '3.8', data3: 'Ergonic designed full sleeve coat', data4: '$2,399', data5: '$5,699', data6: '72% off', data7: 'Offer Price $2,399', color: "secondary-transparent" },
+    { id: 9, src: '../../../assets/images/ecommerce/png/9.png', data1: 'Louie Phillippe', data2: '4.0', data3: 'Ergonic green colored full sleeve jacket', data4: '$1,899', data5: '$3,299', data6: '60% off', data7: 'Offer Price $1,899', color: "primary-transparent" },
+    { id: 10, src: '../../../assets/images/ecommerce/png/10.png', data1: 'Denim Corp', data2: '4.1', data3: 'beautiful brown colored snow jacket', data4: '$2,499', data5: '$4,999', data6: '50% off', data7: 'Offer Price $2,499', color: "primary-transparent" },
+    { id: 11, src: '../../../assets/images/ecommerce/png/11.png', data1: 'Garage & Co', data2: '4.3', data3: 'Full sleeve sweat shirt', data4: '$249', data5: '$1,299', data6: '70% off', data7: 'Offer Price $249', color: "primary-transparent" },
+    { id: 12, src: '../../../assets/images/ecommerce/png/12.png', data1: 'Blueberry & Co', data2: '4.0', data3: 'Light colored sweater form blueberry', data4: '$499', data5: '$799', data6: '32% off', data7: 'Offer Price $499', color: "primary-transparent" },
+
+]
