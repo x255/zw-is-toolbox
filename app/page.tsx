@@ -44,7 +44,7 @@ const Home = () => {
 
     const router = useRouter();
     const RouteChange = () => {
-        const path = "/dashboards/crm";
+        const path = "/landing";
         router.push(path);
     };
 

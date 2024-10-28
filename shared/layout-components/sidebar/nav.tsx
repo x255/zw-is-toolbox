@@ -18,7 +18,7 @@ const icon16 = <i className="bx bx-layer side-menu__icon"></i>
 
 //Badges
 const badge1 = <span className="badge bg-secondary-transparent ms-2">New</span>
-const badge2 = <span className="badge bg-warning-transparent ms-2">12</span>
+const badge2 = <span className="badge bg-warning-transparent ms-2">1</span>
 const badge3 = <span className="badge bg-danger-transparent ms-2">Hot</span>
 const badge4 = <span className="badge bg-success-transparent ms-2">3</span>
 export const MENUITEMS:any = [
@@ -29,17 +29,6 @@ export const MENUITEMS:any = [
         title: "Dashboards", icon: icon1, badgetxt: badge2, type: "sub", active: false, selected: false,
         children: [
           { path: "/dashboards/crm", type: "link", active: false, selected: false, title: "CRM", },
-          { path: "/dashboards/ecommerce", type: "link", active: false, selected: false, title: "Ecommerce" },
-          { path: "/dashboards/crypto", type: "link", active: false, selected: false, title: "Crypto" },
-          { path: "/dashboards/jobs", type: "link", active: false, selected: false, title: "Jobs" },
-          { path: "/dashboards/nft", type: "link", active: false, selected: false, title: "NFT" },
-          { path: "/dashboards/sales", type: "link", active: false, selected: false, title: "Sales" },
-          { path: "/dashboards/analytics", type: "link", active: false, selected: false, title: "Analytics" },
-          { path: "/dashboards/projects", type: "link", active: false, selected: false, title: "Projects" },
-          { path: "/dashboards/hrm", type: "link", active: false, selected: false, title: "HRM" },
-          { path: "/dashboards/stocks", type: "link", active: false, selected: false, title: "Stocks" },
-          { path: "/dashboards/courses", type: "link", active: false, selected: false, title: "Courses" },
-          { path: "/dashboards/personal", type: "link", active: false, selected: false, title: "Personal" },
         ],
       },
    
